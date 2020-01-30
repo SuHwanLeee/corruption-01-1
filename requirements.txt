@@ -1,6 +1,6 @@
 discord
 discord.py[voice]
-tts
+gtts
 PyGithub
 gspread
 oauth2client
